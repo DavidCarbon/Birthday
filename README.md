@@ -1,5 +1,4 @@
-If you're reading this, that means I successfully managed to push this into your repo. Look, there is no time by the time you're reading this.... save yourself before shit goes down.
+# DoomsDay
+ Welcome to the End of the World!
 
-Good Luck! You'll understand why in 2045!
-
-p.s. Make sure to have motivation cause it really sucks once you get old!!!
+- It was a nice Ride, but it's time to accept reality. The world will probably never see this message in TIME.
